@@ -1,2 +1,4 @@
-# explirefit
-The code for (explicitly) specializing distributional embedding spaces for semantic similarity
+# ExpliRefit
+(Explicit() Specialization of distributional embedding spaces for semantic similarity
+
+Detailed description coming soon. 
